@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/camilagv1">Camila</a> 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src="https://imgur.com/a/f1BTYpk">
 
 [![GitHub followers](https://img.shields.io/github/followers/camilagv1?style=social)](https://github.com/camilagv1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](#)

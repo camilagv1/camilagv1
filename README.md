@@ -22,21 +22,29 @@
 
 ## 🚀 Tech Stack
 
-### 🧩 Frontend
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+<p align="center">
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular">
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react">
 
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs">
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi">
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+<!-- Lenguajes -->
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript">
 
+<!-- Bases de datos -->
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/SQL_Server-0F172A?style=for-the-badge&logo=microsoftsqlserver">
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws">
+
+</p>
 <br>
 
 ## 📊 GitHub Analytics

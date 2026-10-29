@@ -45,4 +45,4 @@
 ### 📫 Let's talk
 
 Open to **remote Full Stack / Backend roles** and collaborations.
-Reach me on [LinkedIn](https://www.linkedin.com/in/camila-grajales-5402382b9) or by [email](mailto:camila.grajales.work@gmail.com).
+Reach me on [LinkedIn](https://www.linkedin.com/in/camila-grajales-5402382b9) or by [email](mailto:TU_EMAIL_PERSONAL).

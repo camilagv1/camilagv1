@@ -1,74 +1,48 @@
-<div align="center">
-
-<h1>Hi, I'm Camila 👋</h1>
-
-<p>
-  <a href="https://github.com/camilagv1">
-    <img src="https://img.shields.io/github/followers/camilagv1?style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/camila-grajales-5402382b9">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=camilagv1&color=blueviolet&style=social" />
-</p>
-
-</div>
+<h1 align="center">Hi, I'm Camila 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camilagv1/camilagv1/main/camigv1.png" width="100%">
+  <b>Full Stack Developer · TypeScript · Node.js / NestJS · Angular · Ruby on Rails · Python</b><br/>
+  I build business software that runs in production — ERP modules, APIs and internal tools that replace spreadsheets and manual work.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camila-grajales-5402382b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:TU_EMAIL_PERSONAL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Medellín,_Colombia-UTC−5-0F172A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🧑‍💻 What I do
 
-- 💻 Full Stack Developer  
-- ⚡ Focused on clean architecture & best practices  
-- 🚀 Building scalable and maintainable solutions  
-- 📚 Always learning and improving  
-- 🤝 Open to new opportunities and collaborations  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Angular-0F172A?style=for-the-badge&logo=angular">
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js">
-<img src="https://img.shields.io/badge/NestJS-0F172A?style=for-the-badge&logo=nestjs">
-<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/SQL_Server-0F172A?style=for-the-badge&logo=microsoftsqlserver">
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws">
-
-</p>
+- Build and maintain **production ERP modules** (Rails + Angular): logistics, payments and reporting workflows used daily by business teams.
+- Turn **manual Excel processes into reliable software** — data modeling, validations, dashboards and audit trails.
+- Design **REST APIs** with NestJS and FastAPI, backed by SQL databases.
+- Currently studying **Software Engineering** while working full time, and going deeper into **Go, Docker and cloud infrastructure**.
 
 ---
 
-## 📊 GitHub Analytics
+### ⭐ Featured projects
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=camilagv1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagv1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 💡 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagv1&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| 🚧 **[Uptime Monitor](https://github.com/camilagv1)** *(in progress)* | Self-hosted uptime monitoring with public status pages and real-time alerts | Go · NestJS · Next.js · PostgreSQL · Docker |
+| **[inventory](https://github.com/camilagv1/inventory)** | Inventory management REST API | NestJS · TypeScript |
+| **[PrestaTodito](https://github.com/proyectoPrestamo/FrontPrestaTodito)** | Loan management system (frontend) | JavaScript |
 
 ---
 
-## 📫 Contact
+### 🛠️ Tech I use
 
-<p align="center">
-  <a href="https://github.com/camilagv1">GitHub</a> •
-  <a href="https://www.linkedin.com/in/camila-grajales-5402382b9">LinkedIn</a>
-</p>
+**Backend:** Node.js · NestJS · Ruby on Rails · Python · FastAPI
+**Frontend:** Angular · React · TypeScript · JavaScript
+**Data:** PostgreSQL · MySQL · SQL Server
+**Cloud & tools:** AWS · Git · GitHub Actions
+**Learning now:** Go · Docker
+
+---
+
+### 📫 Let's talk
+
+Open to **remote Full Stack / Backend roles** and collaborations.
+Reach me on [LinkedIn](https://www.linkedin.com/in/camila-grajales-5402382b9) or by [email](mailto:camila.grajales.work@gmail.com).

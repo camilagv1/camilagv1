@@ -7,8 +7,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camila-grajales-5402382b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:TU_EMAIL_PERSONAL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:camila.grajales.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Medellín,_Colombia-UTC−5-0F172A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="./camigv1.png" width="100%">
 </p>
 
 ---
@@ -45,4 +49,4 @@
 ### 📫 Let's talk
 
 Open to **remote Full Stack / Backend roles** and collaborations.
-Reach me on [LinkedIn](https://www.linkedin.com/in/camila-grajales-5402382b9) or by [email](mailto:TU_EMAIL_PERSONAL).
+Reach me on [LinkedIn](https://www.linkedin.com/in/camila-grajales-5402382b9) or by [email](mailto:camila.grajales.work@gmail.com).
